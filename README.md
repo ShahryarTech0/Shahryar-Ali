@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Shahryar Ali
 
-🎓 Final-year Computer Science student at FAST-NU (Graduating June 2025)  
-💻 Frontend Developer | Passionate about building responsive and user-friendly web apps  
-🔎 Open to internship and trainee opportunities in software and web development
+🎓 Recentlty Graduated Computer Science student at FAST-NU (June 2025)  
+💻 Dotnet/C++ Developer
+🔎 Open to internship and trainee opportunities in software  development
 
 
 ## 🔧 Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS, C++, C#
-- **Frontend**: React.js, Bootstrap, Tailwind CSS
-- **Backend (Basic Exposure)**: .NET Core, PHP
+- **Backend (Basic Exposure)**: ASP.Net , EF Core , SQL Server , PHP
 - **Database**: MySQL, Firebase
-- **Tools**: Git, GitHub, Figma, VS Code
+- **Tools**: Git, GitHub, Figma, VS Code 
 
 
 ## 📚 Relevant Coursework
